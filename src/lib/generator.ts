@@ -1,5 +1,7 @@
 import { WORDS } from "../constants/words";
 import { capitalize, makeArrayOfLength } from "../util";
+// we need a funny comment
+
 
 export interface IBounds {
   min: number;
